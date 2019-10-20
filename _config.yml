@@ -21,9 +21,10 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'Prerequisites', linl:'/prerequisites'}
+  - {name: 'Prerequisites', link: '/prerequisites'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
+  - {name: 'Assignments', link: '/assignments'}
 
 tagline: >
   Machine learning for everyone
