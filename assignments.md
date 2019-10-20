@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: page
 featured-img: andrew-neel-cckf4TsHAuw-unsplashandrew-neel-cckf4TsHAuw-unsplash
-
+title: Assignments
+permalink: /assignments/
 published: True
 ---
 

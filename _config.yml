@@ -22,14 +22,14 @@ social:
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'Prerequisites', link: '/prerequisites'}
-  - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
   - {name: 'Assignments', link: '/assignments'}
+  - {name: 'FAQ', link: '/faq'}
+  # - {name: 'Contact', link: '/contact'}
 
 tagline: >
   Machine learning for everyone
 
-hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/background.webp # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: your-email@domain.com # email for form submission
 
