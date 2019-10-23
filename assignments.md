@@ -13,49 +13,47 @@ published: True
 2. [Lesson 2](#lesson-2)
 3. [Lesson 3](#lesson-3)
 4. [Lesson 4](#lesson-4)
+5. [Lesson 5](#lesson-5)
 
 *** 
 
-## Lesson 1
+## Resources
+### Lesson 1
 
-### Getting started with python!
-
-#### Resources
-- [Lesson Notebook](http://nbviewer.ipython.org/urls/raw.github.com/aniketSanap/Neural-style-transfer-pytorch/master/NeuralStyleTransfer.ipynb)
-- [Quiz](Google forms link)
-- [Programming assignment](link here)
+- [Assignment 1](https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments/Assignment-1.ipynb)
+Deadline:- 6 Nov 2019
+- [Quiz 1](https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments/Quiz-1.ipynb)
 
 *** 
 
-## Lesson 2
+### Lesson 2
 
-### Getting started with python!
-
-#### Resources
-- [Lesson Notebook](http://nbviewer.ipython.org/urls/raw.github.com/aniketSanap/Neural-style-transfer-pytorch/master/NeuralStyleTransfer.ipynb)
-- [Quiz](Google forms link)
-- [Programming assignment](link here)
+- [Assignment 2](https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments/Assignment-2.ipynb)
+Deadline:- 6 Nov 2019
+- [Quiz 2](https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments/Quiz-2.ipynb)
 
 ***
 
-## Lesson 3
+### Lesson 3
 
-### Getting started with python!
-
-#### Resources
-- [Lesson Notebook](http://nbviewer.ipython.org/urls/raw.github.com/aniketSanap/Neural-style-transfer-pytorch/master/NeuralStyleTransfer.ipynb)
-- [Quiz](Google forms link)
-- [Programming assignment](link here)
+- [Assignment 3](https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments/Assignment-3.ipynb)
+Deadline:- 6 Nov 2019
+- [Quiz 3](https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments/Quiz-3.ipynb)
 
 ***
 
-## Lesson 4
+### Lesson 4
 
-### Getting started with python!
+- [Assignment 4](https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments/Assignment-4.ipynb)
+Deadline:- 6 Nov 2019
+- [Quiz 4](https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments/Quiz-4.ipynb)
 
-#### Resources
-- [Lesson Notebook](http://nbviewer.ipython.org/urls/raw.github.com/aniketSanap/Neural-style-transfer-pytorch/master/NeuralStyleTransfer.ipynb)
-- [Quiz](Google forms link)
-- [Programming assignment](link here)
+***
+
+### Lesson 5
+
+- [Assigment 5](https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments/Assignment-5.ipynb)
+Deadline:- 6 Nov 2019
+- [Quiz 5](https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments/Quiz-5.ipynb)
 
 ***

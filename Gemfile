@@ -2,3 +2,7 @@
 
 source "https://rubygems.org"
 gemspec
+
+# Gemfile
+
+gem 'jekyll-ftp'

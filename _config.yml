@@ -23,10 +23,11 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'Prerequisites', link: '/prerequisites'}
   - {name: 'Assignments', link: '/assignments'}
+  - {name: 'Applications', link: '/applications'}
   - {name: 'FAQ', link: '/faq'}
   # - {name: 'Contact', link: '/contact'}
 
-tagline: >
+tagline:
   Machine learning for everyone
 
 hero_img: posts/background.webp # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
@@ -71,3 +72,8 @@ compress_html:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-ftp
+
+# username: UserName
+# server_url: ftp.myserver.com
+# remote_dir: /public_html
