@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-title: AI Adventures # your site title
+title: Python for Data Science # your site title
 author: AI Adventures # You :P
 description: > # Meta description of Homepage
   Start building useful real world applications by learning to code
@@ -28,7 +28,7 @@ navigation: # Navigation links
   # - {name: 'Contact', link: '/contact'}
 
 tagline:
-  Machine learning for everyone
+  Python is the way!
 
 hero_img: posts/background.webp # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 

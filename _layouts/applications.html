@@ -19,10 +19,10 @@ layout: compress
 
     {% include header.html %}
 
-    <div class="hero lazyload" data-bg="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.hero_img }}">
+    <div class="hero lazyload" data-bg="{{ site.url }}{{ site.baseurl }}/assets/img/application/{{ page.hero_img }}">
       <div class="hero__wrap">
-        <h1 class="hero__title">{{ site.title | escape }}</h1>
-        <p class="hero__meta">{{ site.tagline }}</p>
+        <h1 class="hero__title">{{ page.title | escape }}</h1>
+        <p class="hero__meta">{{ page.tagline }}</p>
       </div>
     </div>
 

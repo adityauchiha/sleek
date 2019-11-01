@@ -5,5 +5,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: applications
-title: AI Adventures
+title: Applications
+hero_img: background.jpg
 ---
