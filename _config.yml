@@ -74,6 +74,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-ftp
 
+collections: 
+  applications:
+    output: true
+
 # username: UserName
 # server_url: ftp.myserver.com
 # remote_dir: /public_html
